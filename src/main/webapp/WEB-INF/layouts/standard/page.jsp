@@ -133,7 +133,7 @@ html, body {
 <div class='section'>
 <div>
 <div class=" header">
- <div class="block"><img src="pngRobot.png" class="headimg"/></div>
+ <div class="block"><img src="https://voicemybot.com/pngRobot.png" class="headimg"/></div>
  <div class="block"><h2 style="width:320px; color:white;"> That is VoiceMyBot demo site </h2></div>
  </div>
  
