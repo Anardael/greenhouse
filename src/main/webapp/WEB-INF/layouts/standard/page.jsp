@@ -22,7 +22,7 @@
 
 html, body {
   height: 100%;
-  background-image: url("https://voicemybot.com/background1.png");
+  background-image: url("resources/image.png");
     background-size: 100% 100%;
     background-repeat: no-repeat;
   background-color: rgb(26, 29, 75);
@@ -130,16 +130,7 @@ html, body {
 </head>
 <body>
 
-<div class='section'>
-<div>
-<div class=" header">
- <div class="block"><img src="https://voicemybot.com/pngRobot.png" class="headimg"/></div>
- <div class="block"><h2 style="width:320px; color:white;"> That is VoiceMyBot demo site </h2></div>
- </div>
- 
- 
- </div>
-</div>
+
 
 </body>
 </html>
